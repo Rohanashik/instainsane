@@ -32,6 +32,12 @@ chmod +x install.sh
 sudo ./install.sh
 ```
 
+### Important tips
+
+- While using .txt wordlist change the extention to .lst 
+- Have good internet connection for better performance
+
+
 ### How it works?
 
 Script uses an Android ApkSignature to perform authentication in addition using TOR instances to avoid blocking. 
